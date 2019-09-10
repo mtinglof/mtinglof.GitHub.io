@@ -1,4 +1,4 @@
-## Hey, My Name is Michael 
+## Hello World!
 
 I’m a current undergraduate at San Diego State University, receiving a Bachelors of Science in Statistical Computing. I’ll be graduating Winter 2019. 
 
