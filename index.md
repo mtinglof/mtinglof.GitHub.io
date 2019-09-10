@@ -6,5 +6,7 @@ Statistical Analytics, Web Scrapping, Machine Learning, and Artificial Intellige
 
 ### A Cool Fact About Myself 
 
-There is a peninsula in the Antarctic named “Tinglof Peninsula” after my relative Ivor Tinglof (pictured in the middle of the photograph) ![Ivor Tinglof]( https://kb.osu.edu/bitstream/handle/1811/28233/Album233_2_047.jpg?sequence=1&isAllowed=y)
+There is a peninsula in the Antarctic named “Tinglof Peninsula” after my relative Ivor Tinglof (pictured in the middle of the photograph) 
 He is credited for making the first heavy cargo sleds for use in the Antarctic! 
+
+![Ivor Tinglof]( https://kb.osu.edu/bitstream/handle/1811/28233/Album233_2_047.jpg?sequence=1&isAllowed=y)
